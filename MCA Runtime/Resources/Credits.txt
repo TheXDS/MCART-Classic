@@ -1,0 +1,40 @@
+﻿-=< MCA RUNTIME >=-
+
+-{Progrmación general}-
+	César Andrés Morgan
+
+-{Diseño de formularios}-
+	César Andrés Morgan
+
+-{Gráficos}-
+	César Andrés Morgan
+
+-{Pruebas de la rutina}-
+	César Morgan
+	Gerardo Belot
+
+-= MCA Bintools =-
+Rutina extraída y reescrita de "XDS!SUBS" por César Morgan.
+
+-= Bintools 2 =-
+César Andrés Morgan
+
+-= DUFParser =-
+-{Formato de archivo DUF}-
+	César Andrés Morgan
+-{Sistema de Encritación AES}
+	Utilizado bajo licencia GNU/GPL
+	Rutinas .NET - Microsoft
+	Implementación - César Morgan
+
+-= IXDContainer =-
+-{Especificación IXD}-
+	César Andrés Morgan
+-{Rutinas de acceso}-
+	César Andrés Morgan
+
+-= Brainfuck VM =-
+-{Lenguaje Brainfuck}-
+	Urban Müller
+-{Máquina virtual}-
+	César Andrés Morgan

@@ -1,0 +1,57 @@
+﻿Nürburgring 0.1.11.5
+-Versión inicial
+
+Nürburgring 0.2.0.10
+-Primer implementación de concepto de plugins
+-Corregido un problema con VMRunner al finalizar una máquina virtual
+-Corregida parcialmente la inoperatibilidad de Bintools2
+-Desactivación de código no compilable (DUFParser v1.0)
+
+Nürburgring 0.2.0.11
+-Cambios menores
+
+Nürburgring 0.2.1.12
+-Corregidos problemas de estabilidad al cargar Plugins
+-Más correcciones a la inoperatibilidad de Bintools2
+-Reactivación de DUFParser v1.0 mediante una capa de compatibilidad con el plugin AESCrypter
+
+Nürburgring 0.2.2.13
+-Implementación de funciones Shift en Bintools2
+-Cambios menores
+
+Nürburgring 0.2.3.18
+-Reactivación de funciones inoperativas de DUFParser v2.0
+-Mejoras en la implementación de plugins
+-Cambios menores
+
+Nürburgring 0.2.4.33
+-Soporte de plugins reescrito
+-Cambios menores
+
+Nürburgring 0.3.0.40
+-Implementación de arquitectura AnyCPU en todos los módulos
+-Correción de devolucion de valores incorrectos en algunas funciones
+
+Nürburgring 0.3.1.75
+-Inicios de implementación de Copyright (bloquear información confidencial de la API de los plugins o el DLL principal)
+-Mejoras considerables en la implementación de plugins.
+-El DLL principal puede ser cargado como plugin si contiene clases cargables.
+-El DLL principal ahora también presenta su información en formato de Plugin.
+-Correción de errores en plugins.
+-Correción en cuadro de diálogo de detalles de plugin.
+-Cambios menores.
+-Removal of lame dedication note attached to Credits.txt
+
+Nürburgring 0.3.1.77
+-Implementación de algunas funciones adicionales.
+-Reescritura de funciones de consola y video para máquinas virtuales.
+-Reescritura de algunas funciones de soporte de teclado y de emulación de máquinas virtuales.
+
+Nürburgring 0.3.2.78
+-Limpieza de código, ahora en lugar de módulos, se utilizan Namespaces.
+-Mejoras en algunas funciones misceláneas.
+
+Nürburging 0.3.3.80
+-Nueva política: Ahora, el código será obfuscado para la versión protegida.
+-Incorporación de plugins de motor aleatorio.
+-Cambios menores.

@@ -1,0 +1,3 @@
+﻿Nota legal algo extensa de ejemplo
+Esta nota demuestra qué tanto espacio podría ocupar una nota legal verdadera. Se usa este texto, porque aún no se ha cubierto el código fuente de este Runtime bajo ninguna licencia, más que tal vez el uso de este programa para fines no-comerciales. Supongo, que de todas maneras, habría que traducir este archivo a varios idiomas, pero esa es otra historia.
+DUF (Data of Usuers File) es propiedad de César Andrés Morgan. Formato de archivo Pendiente de patente.
